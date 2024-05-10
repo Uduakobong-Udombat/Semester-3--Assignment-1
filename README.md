@@ -1,12 +1,12 @@
 # Semester-3--Assignment-1
 
-##Assignment for the week:
+#Assignment for the week:
 create a static website and host it on S3 bucket(private bucket) but with public read policy assigned, using cloud front for CDN.
 To be submitted this week Saturday (11th May), latest 10am with screenshots of your Aws account bearing your name.
 Input your steps and screenshots in your README file on GitHub.
 
 
-##Steps
+#Steps
 
 Create bucket and give it a unique name like "kunrad-too-like-wahala"
 
